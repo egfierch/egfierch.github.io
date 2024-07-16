@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://egfierch.github.io/sitemap
+Sitemap: https://egfierch.github.io/app/sitemap
+Sitemap: https://egfierch.github.io/assets/sitemap
+Sitemap: https://egfierch.github.io/css/sitemap
+Sitemap: https://egfierch.github.io/includes/sitemap
+Sitemap: https://egfierch.github.io/item/sitemap
+Sitemap: https://egfierch.github.io/src/sitemap
